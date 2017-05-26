@@ -1,0 +1,15 @@
+{
+  "name": "fitness-log-backend",
+  "version": "1.0.0",
+  "description": "Fitness Log backend API in express/axios/mongodb",
+  "main": "app.js",
+  "author": "mmsmsy",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.16.1",
+    "body-parser": "^1.17.2",
+    "cors": "^2.8.3",
+    "express": "^4.15.3",
+    "monk": "^5.0.2"
+  }
+}
